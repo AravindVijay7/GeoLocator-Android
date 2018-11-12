@@ -7,7 +7,7 @@
 # Gradle / Maven dependency
 At the moment we do not have a publishing mechanism to a maven repository so the easiest way to add the library to your app is via a JitPack Dependency 
 
-  Add this to you project.gradle
+ # Add this to you project.gradle
 
 	allprojects {
 		repositories {
@@ -16,10 +16,21 @@ At the moment we do not have a publishing mechanism to a maven repository so the
 		}
 	}
   
-  Add this to your App.gradle
+ # Add this to your App.gradle
   
   	dependencies {
 	        implementation 'com.github.AravindVijay7:GeoLocator-Android:Tag'
 	}
 
 
+# Usage
+
+
+ Initaialize GeoLocator:
+ 
+  GeoLocator geoLocator = new GeoLocator(getApplicationContext(),MainActivity.this);
+  
+ get latitiude and lontitude by:
+  
+   geoLocator.getLattitude()
+   geoLocator.getLongitude()
