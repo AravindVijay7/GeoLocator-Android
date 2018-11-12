@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoLocator</string>
+    <string name="get_location">GET LOCATION</string>
+</resources>
