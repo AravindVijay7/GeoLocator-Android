@@ -1,0 +1,1 @@
+# GeoLocator-Android
