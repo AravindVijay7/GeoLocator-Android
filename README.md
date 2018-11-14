@@ -19,7 +19,8 @@ At the moment we do not have a publishing mechanism to a maven repository so the
  # Add this to your App.gradle
   
   	dependencies {
-	        implementation 'com.github.AravindVijay7:GeoLocator-Android:Tag'
+	       implementation 'com.github.AravindVijay7:GeoLocator-Android:1.0.2'
+
 	}
 
 
@@ -33,4 +34,5 @@ At the moment we do not have a publishing mechanism to a maven repository so the
  get latitiude and lontitude by:
   
    geoLocator.getLattitude()
+   
    geoLocator.getLongitude()
