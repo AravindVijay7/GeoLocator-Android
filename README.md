@@ -29,7 +29,7 @@ At the moment we do not have a publishing mechanism to a maven repository so the
 
  ## Initaialize GeoLocator:
  
-  GeoLocator geoLocator = new GeoLocator(getApplicationContext(),MainActivity.this);
+   > GeoLocator geoLocator = new GeoLocator(getApplicationContext(),MainActivity.this);
   
  ## get latitiude and lontitude by:
   
