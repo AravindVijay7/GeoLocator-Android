@@ -27,12 +27,12 @@ At the moment we do not have a publishing mechanism to a maven repository so the
 # Usage
 
 
- Initaialize GeoLocator:
+ ## Initaialize GeoLocator:
  
   GeoLocator geoLocator = new GeoLocator(getApplicationContext(),MainActivity.this);
   
- get latitiude and lontitude by:
+ ## get latitiude and lontitude by:
   
-   geoLocator.getLattitude()
+   > geoLocator.getLattitude()
    
-   geoLocator.getLongitude()
+   > geoLocator.getLongitude()
