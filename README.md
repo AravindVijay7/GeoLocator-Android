@@ -1,4 +1,4 @@
- ![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-GeoLocator--Android-green.svg?style=flat ) 
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-GeoLocator--Android-green.svg?style=flat )]( https://android-arsenal.com/details/1/7331 )
 
 # GeoLocator-Android
  Using GeoLocator-Android you could easily get you GPS based location from Android Devices
