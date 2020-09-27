@@ -1,5 +1,8 @@
 [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-GeoLocator--Android-green.svg?style=flat )]( https://android-arsenal.com/details/1/7331 )
 
+[![](https://jitpack.io/v/AravindVijay7/GeoLocator-Android.svg)](https://jitpack.io/#AravindVijay7/GeoLocator-Android)
+
+
 # GeoLocator-Android
  Using GeoLocator-Android you could easily get you GPS based location from Android Devices
  
@@ -21,7 +24,7 @@ At the moment we do not have a publishing mechanism to a maven repository so the
  # Add this to your App.gradle
   
   	dependencies {
-	       implementation 'com.github.AravindVijay7:GeoLocator-Android:1.0.2'
+	       implementation 'com.github.AravindVijay7:GeoLocator-Android:2.0.0'
 	}
 
 
