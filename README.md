@@ -1,6 +1,4 @@
-[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-GeoLocator--Android-green.svg?style=flat )]( https://android-arsenal.com/details/1/7331 )
-
-[![](https://jitpack.io/v/AravindVijay7/GeoLocator-Android.svg)](https://jitpack.io/#AravindVijay7/GeoLocator-Android)
+[![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-GeoLocator--Android-green.svg?style=flat )]( https://android-arsenal.com/details/1/7331 )     [![](https://jitpack.io/v/AravindVijay7/GeoLocator-Android.svg)](https://jitpack.io/#AravindVijay7/GeoLocator-Android)
 
 
 # GeoLocator-Android
