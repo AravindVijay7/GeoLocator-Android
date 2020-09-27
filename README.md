@@ -22,19 +22,26 @@ At the moment we do not have a publishing mechanism to a maven repository so the
   
   	dependencies {
 	       implementation 'com.github.AravindVijay7:GeoLocator-Android:1.0.2'
-
 	}
 
 
 # Usage
 
 
- ## Initaialize GeoLocator:
+ ## Initialize GeoLocator:
  
    > GeoLocator geoLocator = new GeoLocator(getApplicationContext(),MainActivity.this);
-  
- ## get latitiude and lontitude by:
+
+     >or(Converting address to latitude and longitude)
+
+   > GeoLocator geoLocator = new GeoLocator(getApplicationContext(),MainActivity.this,"Address String");
+
+ ## get latitude and longitude by:
   
    > geoLocator.getLattitude()
    
    > geoLocator.getLongitude()
+
+ ## get address by:
+
+   > geoLocator.getAddress()
